@@ -1,0 +1,12 @@
+useJson
+===================
+
+This is the example documentation for **useJson**
+
+-------------------
+
+readJson function info example... ....
+-------------------
+
+Next documentation 
+----
